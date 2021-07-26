@@ -1,2 +1,4 @@
 Hello. This is my firsy practice with "Git" and add to "Git".
 I make the changes in this text
+It is true
+
