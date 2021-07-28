@@ -12,5 +12,7 @@ print(result)
 #y = a // 1000
 #print(y,x,c,b) 
 
+#example
+
 
 
