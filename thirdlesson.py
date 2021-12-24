@@ -94,14 +94,28 @@
 # #реализация функции
 
 # def my_new_func():
-#     print('Hello world') 
+#print('Hello world') 
 # my_new_func() #это вызывает функцию
 
 #теперь в функцию передадим имя
 
-def my_new_func(name):
-    print(f'Hello {name}') #делаем принт при помощи f строки
-my_new_func(name='Yan') #это вызывает функцию
+# def my_new_func(name):
+#     print(f'Hello {name}') #делаем принт при помощи f строки
+# my_new_func(name='Yan') #это вызывает функцию
+
+#1/ Вывести список всех установленных модулей.
+#2/ Вывести этот список в файл
+#3/ Заново начать его установку
+
+#будем использовать команды в терминале
+# 1/ pip freeze 
+# 2/ pip freeze > requirenments.txt
+# 3/ pip install -r requirenments.txt 
+
+#Установить модуль cowsay и вывести все его методы.
+# Исследовать их и вызвать функцию для отрисовки.
+
+
 
 
 
